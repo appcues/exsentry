@@ -5,6 +5,9 @@
 [![Coverage
 Status](https://coveralls.io/repos/appcues/exsentry/badge.svg?branch=master&service=github)](https://coveralls.io/github/appcues/exsentry?branch=master)
 
+## THIS PROJECT IS DEPRECATED
+Please use the official client here: https://github.com/getsentry/sentry-elixir
+
 An Elixir client library for the [Sentry](https://getsentry.com) error
 reporting platform.
 
